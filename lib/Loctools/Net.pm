@@ -9,7 +9,7 @@ with HTTP and OAuth2-based services.
 
 =head1 COPYRIGHT
 
-Copyright (C) 2019, Igor Afanasyev.
+Copyright (C) 2020, Igor Afanasyev.
 
 =head1 SEE ALSO
 
